@@ -1,4 +1,4 @@
-package com.shopee.di.demo;
+package com.hello.world.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
