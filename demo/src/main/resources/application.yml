@@ -1,0 +1,27 @@
+
+person:
+  username: xiaoming
+  boss: true
+  birth: 2019/01/01
+  interests:
+    - chess
+    - computer games
+  animals: [cat, dog]
+  score: {englist: 10, math:20}
+  pet:
+    name: xiaohuang
+    weight: 90
+  all-pets:
+    sick:
+      - name: zxx
+        weight: 21
+      - name: xcc
+        weight: 23
+  salaries:
+    - 1234
+    - 2345
+  age: 12
+
+
+
+

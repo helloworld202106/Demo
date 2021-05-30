@@ -1,0 +1,30 @@
+{
+  "plugins": [
+    "tbfed-pagefooter",
+    "code",
+    "expandable-chapters-small",
+    "copy-code-button",
+    "splitter",
+    "klipse",
+    "flexible-alerts",
+    "auto-scroll-table"
+  ],
+  "pluginsConfig": {
+    "tbfed-pagefooter": {
+      "copyright":"Java",
+      "modify_label": "Last Modified",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "code": {
+      "copyButtons": false
+    }
+  },
+  "links": {
+    "gitbook": false,
+    "sharing": {
+      "google": false,
+      "facebook": false,
+      "twitter": false
+    }
+  }
+}
