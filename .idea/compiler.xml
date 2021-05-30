@@ -8,11 +8,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="JavaLearning" />
+        <module name="FlinkLearning" />
         <module name="demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="demo" target="1.8" />
+      <module name="FlinkLearning" target="11" />
       <module name="gmall-user" target="1.8" />
       <module name="JavaLearning" target="1.8" />
     </bytecodeTargetLevel>
